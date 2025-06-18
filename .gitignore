@@ -1,18 +1,1 @@
-# No Public Echoes
-Echoes Origins
 
-# Node.js
-node_modules/
-package-lock.json
-
-# Python
-__pycache__/
-*.pyc
-
-# Systèmes
-.DS_Store
-Thumbs.db
-
-# Logs / temp
-*.log
-*.tmp
